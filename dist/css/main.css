@@ -224,13 +224,6 @@ main {
   background: #c4c4c4;
   color: #333; }
 
-#main-footer {
-  background: #2b2b2b;
-  text-align: center;
-  padding: 1rem;
-  color: #fff;
-  height: 60px; }
-
 @media Screen and (max-width: 768px) {
   main {
     align-items: center;
@@ -253,10 +246,11 @@ main {
   .menu-branding {
     height: 25vh;
     transform: translate3d(100%, 0, 0); }
-    .menu-branding .potrait {
-      background: url("../img/potrait_small.jpeg");
+    .menu-branding .portrait {
+      background: url("../img/portrait-small.jpg");
       width: 150px;
-      height: 150px; }
+      height: 150px;
+      object-fit: cover; }
   about {
     align-items: center;
     text-align: center; }
