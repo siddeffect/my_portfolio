@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "homepage": "https://SiddharthVarshney.github.io/my_portfolio",
   "dependencies": {
+    "gh-pages": "^2.0.0",
     "node-sass": "^4.9.3"
   },
   "devDependencies": {},
@@ -19,6 +21,5 @@
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/SiddharthVarshney/my_portfolio/issues"
-  },
-  "homepage": "https://github.com/SiddharthVarshney/my_portfolio#readme"
+  }
 }
