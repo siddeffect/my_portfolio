@@ -4,6 +4,30 @@
 
 Check out this project [https://siddharthvarshney.github.io/my_portfolio/](https://siddharthvarshney.github.io/my_portfolio/)
 
-Hope you enoy my work.
+Hope you enjoy my work.
 
-Made by [Siddharth](https://github.com/SiddharthVarshney)
+Made with ❤ by [Siddharth](https://github.com/SiddharthVarshney)
+
+
+# Install Dependencies
+
+`
+npm install
+`
+
+`
+npm init
+`
+
+Fill the asked questions accordingly.
+
+
+`
+npm install node-sass
+`
+
+# Run npm script
+
+`
+npm run sass
+`
