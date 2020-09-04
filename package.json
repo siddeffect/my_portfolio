@@ -6,7 +6,7 @@
   "homepage": "https://SiddharthVarshney.github.io/my_portfolio",
   "dependencies": {
     "gh-pages": "^2.0.0",
-    "node-sass": "^4.9.3"
+    "node-sass": "^4.13.1"
   },
   "devDependencies": {},
   "scripts": {
